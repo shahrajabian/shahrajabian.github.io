@@ -7,8 +7,7 @@ related_posts: false
 ---
 
 Bachelor Thesis: Design and Implementation of Autopilot for Automatic Takeoff and Landing of a Quadrotor using the Model-Based Design Approach
-
----
+***
 According to the increasing importance of unmanned aerial vehicles in recent decades, studies to model and control these aerial vehicles have taken on a growing trend. One of the most important challenges facing the unmanned aerial vehicle industry is the issues related to the guidance, navigation and automatic control system (autopilot), especially in the take-off and landing phase. 
 
 {% include figure.html path="assets/img/MBD.png" title="" class="img-fluid rounded z-depth-1" %}
