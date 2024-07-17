@@ -56,6 +56,36 @@
             </a>
           </li>
 
+          <!-- Publications -->
+          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/' | relative_url }}">
+              {{- publication_title }}
+              {% if page.permalink == '/' %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+
+          <!-- Projects -->
+          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/' | relative_url }}">
+              {{- Projects_title }}
+              {% if page.permalink == '/' %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+
+          <!-- Teaching -->
+          <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/' | relative_url }}">
+              {{- teaching_title }}
+              {% if page.permalink == '/' %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
