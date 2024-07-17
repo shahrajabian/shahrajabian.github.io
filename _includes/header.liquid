@@ -64,88 +64,88 @@
          
 
        <!-- Other pages -->  
-{% assign sorted_pages = site.pages | sort: 'nav_order' %}  
-{% for p in sorted_pages %}  
-  {% if p.nav and p.autogen == null %}  
-    {% if p.title == 'Publications' %}  
-      {% assign parent_link = p.permalink | remove: 'index.html' %}  
-      <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">  
-        {% if p.permalink contains '/publication/' %}{% assign url = '/publication/' %} {% else %}{% assign url = p.url %}{% endif %}  
-        <a class="nav-link" href="{{ url | relative_url }}">  
-          {{- p.title }}  
-          {% if page.url contains p.url %}  
-            <span class="sr-only">(current)</span>  
-          {% endif %}  
-        </a>  
-      </li>  
-    {% endif %}  
-  {% endif %}  
-{% endfor %}  
-{% for p in sorted_pages %}  
-  {% if p.nav and p.autogen == null %}  
-    {% if p.title == 'Projects' %}  
-      {% assign parent_link = p.permalink | remove: 'index.html' %}  
-      <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">  
-        {% if p.permalink contains '/publication/' %}{% assign url = '/publication/' %} {% else %}{% assign url = p.url %}{% endif %}  
-        <a class="nav-link" href="{{ url | relative_url }}">  
-          {{- p.title }}  
-          {% if page.url contains p.url %}  
-            <span class="sr-only">(current)</span>  
-          {% endif %}  
-        </a>  
-      </li>  
-    {% endif %}  
-  {% endif %}  
-{% endfor %}  
-{% for p in sorted_pages %}  
-  {% if p.nav and p.autogen == null %}  
-    {% if p.title == 'Teaching' %}  
-      {% assign parent_link = p.permalink | remove: 'index.html' %}  
-      <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">  
-        {% if p.permalink contains '/publication/' %}{% assign url = '/publication/' %} {% else %}{% assign url = p.url %}{% endif %}  
-        <a class="nav-link" href="{{ url | relative_url }}">  
-          {{- p.title }}  
-          {% if page.url contains p.url %}  
-            <span class="sr-only">(current)</span>  
-          {% endif %}  
-        </a>  
-      </li>  
-    {% endif %}  
-  {% endif %}  
-{% endfor %}  
-{% for p in sorted_pages %}  
-  {% if p.nav and p.autogen == null %}  
-    {% if p.title == 'Blog' %}  
-      {% assign parent_link = p.permalink | remove: 'index.html' %}  
-      <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">  
-        {% if p.permalink contains '/publication/' %}{% assign url = '/publication/' %} {% else %}{% assign url = p.url %}{% endif %}  
-        <a class="nav-link" href="{{ url | relative_url }}">  
-          {{- p.title }}  
-          {% if page.url contains p.url %}  
-            <span class="sr-only">(current)</span>  
-          {% endif %}  
-        </a>  
-      </li>  
-    {% endif %}  
-  {% endif %}  
-{% endfor %}  
-{% for p in sorted_pages %}  
-  {% if p.nav and p.autogen == null %}  
-    {% if p.title == 'CV' %}  
-      {% assign parent_link = p.permalink | remove: 'index.html' %}  
-      <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">  
-        {% if p.permalink contains '/publication/' %}{% assign url = '/publication/' %} {% else %}{% assign url = p.url %}{% endif %}  
-        <a class="nav-link" href="{{ url | relative_url }}">  
-          {{- p.title }}  
-          {% if page.url contains p.url %}  
-            <span class="sr-only">(current)</span>  
-          {% endif %}  
-        </a>  
-      </li>  
-    {% endif %}  
-  {% endif %}  
-{% endfor %}  
-{% if site.search_enabled %}  
+          {% assign sorted_pages = site.pages | sort: 'nav_order' %}  
+          {% for p in sorted_pages %}  
+            {% if p.nav and p.autogen == null %}  
+              {% if p.title == 'publications' %}  
+                {% assign parent_link = p.permalink | remove: 'index.html' %}  
+                <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">  
+                  {% if p.permalink contains '/publication/' %}{% assign url = '/publication/' %} {% else %}{% assign url = p.url %}{% endif %}  
+                  <a class="nav-link" href="{{ url | relative_url }}">  
+                    {{- p.title }}  
+                    {% if page.url contains p.url %}  
+                      <span class="sr-only">(current)</span>  
+                    {% endif %}  
+                  </a>  
+                </li>  
+              {% endif %}  
+            {% endif %}  
+          {% endfor %}  
+          {% for p in sorted_pages %}  
+            {% if p.nav and p.autogen == null %}  
+              {% if p.title == 'Projects' %}  
+                {% assign parent_link = p.permalink | remove: 'index.html' %}  
+                <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">  
+                  {% if p.permalink contains '/projects/' %}{% assign url = '/projects/' %} {% else %}{% assign url = p.url %}{% endif %}  
+                  <a class="nav-link" href="{{ url | relative_url }}">  
+                    {{- p.title }}  
+                    {% if page.url contains p.url %}  
+                      <span class="sr-only">(current)</span>  
+                    {% endif %}  
+                  </a>  
+                </li>  
+              {% endif %}  
+            {% endif %}  
+          {% endfor %}  
+          {% for p in sorted_pages %}  
+            {% if p.nav and p.autogen == null %}  
+              {% if p.title == 'Teaching' %}  
+                {% assign parent_link = p.permalink | remove: 'index.html' %}  
+                <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">  
+                  {% if p.permalink contains '/teaching/' %}{% assign url = '/teaching/' %} {% else %}{% assign url = p.url %}{% endif %}  
+                  <a class="nav-link" href="{{ url | relative_url }}">  
+                    {{- p.title }}  
+                    {% if page.url contains p.url %}  
+                      <span class="sr-only">(current)</span>  
+                    {% endif %}  
+                  </a>  
+                </li>  
+              {% endif %}  
+            {% endif %}  
+          {% endfor %}  
+          {% for p in sorted_pages %}  
+            {% if p.nav and p.autogen == null %}  
+              {% if p.title == 'Blog' %}  
+                {% assign parent_link = p.permalink | remove: 'index.html' %}  
+                <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">  
+                  {% if p.permalink contains '/blog/' %}{% assign url = '/blog/' %} {% else %}{% assign url = p.url %}{% endif %}  
+                  <a class="nav-link" href="{{ url | relative_url }}">  
+                    {{- p.title }}  
+                    {% if page.url contains p.url %}  
+                      <span class="sr-only">(current)</span>  
+                    {% endif %}  
+                  </a>  
+                </li>  
+              {% endif %}  
+            {% endif %}  
+          {% endfor %}  
+          {% for p in sorted_pages %}  
+            {% if p.nav and p.autogen == null %}  
+              {% if p.title == 'CV' %}  
+                {% assign parent_link = p.permalink | remove: 'index.html' %}  
+                <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">  
+                  {% if p.permalink contains '/cv/' %}{% assign url = '/cv/' %} {% else %}{% assign url = p.url %}{% endif %}  
+                  <a class="nav-link" href="{{ url | relative_url }}">  
+                    {{- p.title }}  
+                    {% if page.url contains p.url %}  
+                      <span class="sr-only">(current)</span>  
+                    {% endif %}  
+                  </a>  
+                </li>  
+              {% endif %}  
+            {% endif %}  
+          {% endfor %}  
+          {% if site.search_enabled %}  
             <!-- Search -->
           <!--
             <li class="nav-item">
