@@ -109,8 +109,9 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: Got a question related to my work? Email is the best way to connect with me!
-
+contact_note: Thank you for visiting my website. Whether you’re a fellow researcher, a prospective student,
+or simply curious about may work, I hope you find the information here helpful and motivating.
+Please feel free to reach out if you have any questions or would like to discuss potential collaborations.
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
