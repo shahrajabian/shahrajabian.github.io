@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Teaching my first class in Calculus I at Amirkabir University of Technology! 🌟
+Teaching my first class in Calculus I at Amirkabir University of Technology! :sparkles
