@@ -27,3 +27,5 @@ I am interested in building intelligent autonomous systems that will benefit soc
 * Data-Driven Modeling and Control
 * Resilient Flight Control
 * Control of Multi-Agent Systems
+
+Thank you for visiting my website. Whether you’re a fellow researcher, a prospective student, or simply curious about may work, I hope you find the information here helpful and motivating. Please feel free to reach out if you have any questions or would like to discuss potential collaborations.
