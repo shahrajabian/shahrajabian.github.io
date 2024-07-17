@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Today, I successfully defended my bachelor's thesis and I graduated from the Amirkabir University of Technology with Summa Cum Laude!
+date: 2022-10-22 14:00:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Bachelor’s Thesis: Design and Implementation of Autopilot for Automatic Takeoff and Landing of a Quadrotor using the Model-Based Design Approach
 
 ---
 
@@ -22,11 +22,16 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 </ul>
 
 Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/MBD.png" title=" " class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 ---
 
 Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
 
+![](assets/video/bachelorThesis.gif)
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
 
