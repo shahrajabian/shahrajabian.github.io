@@ -4,8 +4,7 @@ title: Today, I successfully defended my bachelor thesis and I graduated from th
 date: 2022-10-22 14:00:00-0400
 inline: false
 related_posts: false
-
-***
+---
 
 Bachelor Thesis: Design and Implementation of Autopilot for Automatic Takeoff and Landing of a Quadrotor using the Model-Based Design Approach
 
