@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Master Student at Sharif University of Technology, Tehran, Iran
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
