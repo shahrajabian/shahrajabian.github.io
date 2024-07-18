@@ -12,6 +12,6 @@ I am truly grateful to the students who entrusted me with their education. Addit
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/LCSL_Pic.jpeg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/LCSL_Pic.jpg" title=" " class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
