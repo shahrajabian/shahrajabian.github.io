@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Completing my first class as an instructor in the  Linear Control Systems Lab
-date: 2024-6-8 00:00:00-0000
+date: 2024-06-08 14:00:00 -0400
 inline: false
 related_posts: false
 ---
