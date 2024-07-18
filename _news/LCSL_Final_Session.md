@@ -10,4 +10,4 @@ I am tremendously honored to have completed my first class as an instructor in t
 I am truly grateful to the students who entrusted me with their education. Additionally, I want to express my gratitude to the head of the laboratory, [Dr. Farzaneh Abdollahi](https://aut.ac.ir/cv/2149/FARZANEH%20ABDOLLAHI), for giving me the opportunity to teach this course.
 
 
-<img src="assets/img/LCSL_Pic.jpg" align="center" height="400" width="600"/>
+<img src="https://github.com/shahrajabian/shahrajabian.github.io/blob/master/assets/img/LCSL_Pic.jpg" align="center" height="400" width="600"/>
