@@ -64,13 +64,19 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor </h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
+    <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
+      <li class="list-group-item" style="border-bottom: none;">— Spring 2024</li>  
+      <li class="list-group-item" style="border-bottom: none;">— Department of Electrical Engineering</li>  
+      <li class="list-group-item" style="border-bottom: none;">— Level: Undergraduate</li>  
+    </ul> 
+    <!-- <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— Spring 2024</li>
       <li class="list-group-item">— Department of Electrical Engineering</li>
       <li class="list-group-item">— Level: Undergraduate</li>
-    </ul>
+    </ul>-->
   </div>
 </div>
+ 
 
 <div class="card mt-3">
   <div class="p-3">
