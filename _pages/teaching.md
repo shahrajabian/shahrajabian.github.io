@@ -58,16 +58,15 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
         <h5 class="font-weight-bold">Linear Control Systems Lab</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" href="https://inst.eecs.berkeley.edu/~cs188/fa19/" target="_blank">
-            23-02241
+        <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle"> 23-02241
         </a>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor </h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
-      <li class="list-group-item" style="border-bottom: none;">— Spring 2024</li>  
-      <li class="list-group-item" style="border-bottom: none;">— Department of Electrical Engineering</li>  
-      <li class="list-group-item" style="border-bottom: none;">— Level: Undergraduate</li>  
+      <li class="list-group-item" style="border-bottom: none; margin-bottom: 5px;">— Spring 2024</li>  
+      <li class="list-group-item" style="border-bottom: none; margin-bottom: 10px;">— Department of Electrical Engineering</li>  
+      <li class="list-group-item" style="border-bottom: none; margin-bottom: 7px;">— Level: Undergraduate</li>  
     </ul> 
     <!-- <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— Spring 2024</li>
