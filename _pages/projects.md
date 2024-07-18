@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: In Preperation
+description: 🛠️ Page under construction!
 nav: true
 nav_order: 2
 display_categories: [Academic, Other]
