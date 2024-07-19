@@ -8,7 +8,7 @@ nav_order: 3
 ---
 Teaching is a high priority for me. I believe that it is our responsibility to share our fascination and knowledge to inspire future generations of students in the same way that it has been shared with us. 
 
-As a TA, I held review and problem-solving sessions, developed homework assignments, provided feedback on projects, designed exams, and graded them.
+As a TA, I held review and problem-solving sessions, developed homework assignments and projects, provided feedback on projects, designed exams, and graded them.
 
 Throughout my academic journey, I’ve had the privilege of being a teaching assistant/instructor for the following courses:
 
@@ -19,7 +19,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold"> <a href="/teaching/AutomaticControlSUT-S2024/">Auomatic Control</a></h5>
+        <h5 class="font-weight-bold"> Auomatic Control</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" target="_blank"> 45135
@@ -32,6 +32,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Department of Aerospace Engineering</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor: <a href="http://ae.sharif.edu/~portal/faculty/1869080903">Prof. Seyyed Ali Emami</a></li> 
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate</li>   
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Homeworks: <a href="assets/pdf/HWs/AC_HW1.pdf">HW1</a>, <a href="assets/pdf/HWs/AC_HW2.pdf">HW2</a>, <a href="assets/pdf/HWs/AC_HW4.pdf">HW1</a>, <a href="assets/pdf/HWs/AC_HW4.pdf">HW4</a>, <a href="assets/pdf/HWs/AC_HW5.pdf">HW5</a></li>   
     </ul> 
   </div>
 </div>
@@ -59,6 +60,25 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
 
 <h3 class="mt-4">Amirkabir University of Technology (Tehran Polytechnique)</h3>
 
+ <div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold"> Advanced MATLAB and Simulink Course </h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Instructor </h6>
+    <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Summer 2024</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Scientific Society of Mechanical Engineering</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate/Graduate</li>  
+    </ul> 
+  </div>
+</div>
+
+
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -79,20 +99,19 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
   </div>
 </div>
 
-
  <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Advanced MATLAB and Simulink Course</h5>
+        <h5 class="font-weight-bold">  Introduction to MATLAB for engineers Course </h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Instructor </h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Summer 2023</li>  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Scientific Society of Aerospace Engineering</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Spring 2024</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Scientific Society of Mechanical Engineering</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate/Graduate</li>  
     </ul> 
   </div>
@@ -113,7 +132,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Head Teaching Assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Fall 2022</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Fall 2023</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Department of Electrical Engineering</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor: <a href="https://aut.ac.ir/cv/2091/Hajar Atrianfar">Prof. Hajar Atrianfar</a></li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate</li>  
@@ -122,6 +141,24 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
       <!--<p style="text-indent:25px;">
           Modern Control is a . As a TA, I held review and problem-solving sessions, developed homework assignments, provided feedback on projects, designed exams, and graded them.
      </p> -->
+  </div>
+</div>
+
+ <div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold"> <a href="/teaching/AMSC-S2023/">Advanced MATLAB and Simulink Course</a> </h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Instructor </h6>
+    <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Summer 2023</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Scientific Society of Aerospace Engineering</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate/Graduate</li>  
+    </ul> 
   </div>
 </div>
 
