@@ -9,29 +9,35 @@ parent: Teaching
 ---
 
 __Course Description:__
+
 This course is designed for students who already have some experience with MATLAB and Simulink and want to take their skills to the next level. The course will cover advanced programming techniques and their application to aerospace and control engineering problems. The course will start with a review of the fundamental concepts of MATLAB and Simulink, including basic programming techniques, data structures, and control flow. In this course, students will then learn advanced programming techniques, such as advanced approaches to function creation, object-oriented programming, and training neural networks, and will apply these techniques to solve engineering problems in aerospace and control engineering. Students will learn how to use MATLAB and Simulink to model and simulate complex aerospace and control systems and will gain hands-on experience in designing and implementing control algorithms for aerospace systems.
 
 __Course Schedule:__
+
 This course is held by the Student Scientific Society of Aerospace Engineering at Amirkabir University of Technology and is scheduled to commence on August 3rd, 2023 and will span over 7 weeks, with classes held every Thursday from 14:00 to 18:00, totaling 28 hours of instruction.
 
 __Prerequisites:__
+
 Students should have a Basic knowledge of MATLAB and Simulink. Familiarity with aerospace and control engineering concepts, such as flight dynamics and control systems, is also recommended.
 
 __Course Objectives:__
-•	Gain a deep understanding of advanced programming techniques in MATLAB and Simulink
-•	Learn and apply techniques for numerical analysis and symbolic math in MATLAB
-•	Develop the ability to design and implement GUIs using App Designer
-•	Learn how to model and simulate complex aerospace and control systems using MATLAB and Simulink
-•	Learn how to use MATLAB and Simulink to analyze and visualize data from aerospace and control systems
-•	Develop expertise in implementing control algorithms for aerospace systems
-•	Gain practical experience in implementing intelligent control methods using NN
-•	Gain an understanding of real-time simulation using Simulink Desktop Real-time
-•	Gain practical experience in applying MATLAB and Simulink to real-world aerospace and control engineering problems
+
+*	Gain a deep understanding of advanced programming techniques in MATLAB and Simulink
+*	Learn and apply techniques for numerical analysis and symbolic math in MATLAB
+*	Develop the ability to design and implement GUIs using App Designer
+*	Learn how to model and simulate complex aerospace and control systems using MATLAB and Simulink
+*	Learn how to use MATLAB and Simulink to analyze and visualize data from aerospace and control systems
+*	Develop expertise in implementing control algorithms for aerospace systems
+*	Gain practical experience in implementing intelligent control methods using NN
+*	Gain an understanding of real-time simulation using Simulink Desktop Real-time
+*	Gain practical experience in applying MATLAB and Simulink to real-world aerospace and control engineering problems
 
 __Course Format:__
+
 The course will be taught through a combination of lectures, discussions, and hands-on projects. Students will have access to MATLAB and Simulink software for the duration of the course and will be expected to complete assignments and projects outside of class time.
 
 __Assessment:__
+
 Students will be assessed through a combination of assignments and a final project. Grades will be based on the quality of the work submitted, as well as participation in class discussions and activities.
 *	Assignments: 60 points
 *	Final Project: 40 points 
