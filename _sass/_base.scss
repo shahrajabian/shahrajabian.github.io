@@ -172,6 +172,12 @@ ul.task-list input[type="checkbox"] {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
   }
 }
+.list-group-item {
+    background-color: var(--global-card-bg-color); border-color: var(--global-divider-color);
+  }
+  .badge {
+    background-color: var(--global-theme-color); padding-left: 1rem; padding-right: 1rem;
+  }
 
 // Citation
 
