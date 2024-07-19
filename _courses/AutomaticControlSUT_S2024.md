@@ -6,4 +6,12 @@ importance: 1
 category: TA
 related_publications: false
 ---
-Teaching has a high priority for me. I believe that it is our responsibility to share our fascination and knowledge to inspire future generations of students in the same way that it has been shared with us. 
+** Syllabus **
+* Introduction to Control Systems
+* Mathematical Basics of Linear Control Theory (Laplace transform)
+* Mathematical Modeling of (Control) Systems
+* Stability Analysis
+* Transient and Steady-state Response Analysis
+* Control Systems Analysis and Design by the Root-Locus Method
+* Control Systems Analysis and Design by the FrequencyResponse Method
+* PID Controller
