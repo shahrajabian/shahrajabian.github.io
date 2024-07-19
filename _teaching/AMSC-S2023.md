@@ -14,7 +14,7 @@ This course is designed for students who already have some experience with MATLA
 
 __Course Schedule:__
 
-This course is held by the Student Scientific Society of Aerospace Engineering at Amirkabir University of Technology and is scheduled to commence on August 3<sup>rd, 2023 and will span over 7 weeks, with classes held every Thursday from 14:00 to 18:00, totaling 28 hours of instruction.
+This course is held by the Student Scientific Society of Aerospace Engineering at Amirkabir University of Technology and is scheduled to commence on August 3<sup>rd<sup>, 2023 and will span over 7 weeks, with classes held every Thursday from 14:00 to 18:00, totaling 28 hours of instruction.
 
 __Prerequisites:__
 
@@ -62,7 +62,7 @@ __Syllabus:__
   - Creating Plots Using for Loop
   - Add Special Texts to Plots
   - Animated Plots
-  - Numerical Analysis
+- Numerical Analysis
    - Matlab and Simulink Solvers
    - Numerical Solution of System of Nonlinear Algebraic Equations
    - Numerical Solution of System of Differential Equations
