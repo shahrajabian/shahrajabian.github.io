@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/AutomaticControlSUT_S2024/
+permalink: /teaching/AutomaticControlSUT-S2024/
 title: Automatic Control
 description: Automatic Control
 # importance: 1
