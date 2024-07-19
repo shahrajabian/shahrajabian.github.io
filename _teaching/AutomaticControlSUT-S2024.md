@@ -7,7 +7,7 @@ description: Automatic Control
 # category: TA
 parent: Teaching  
 ---
-** Syllabus **
+__Syllabus__
 * Introduction to Control Systems
 * Mathematical Basics of Linear Control Theory (Laplace transform)
 * Mathematical Modeling of (Control) Systems
