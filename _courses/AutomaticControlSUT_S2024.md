@@ -1,11 +1,10 @@
 ---
 layout: page
-permalink: /AutomaticControlSUT_S2024/
+permalink: /teaching/AutomaticControlSUT_S2024/
 title: Automatic Control
 description: Automatic Control
 importance: 1
 category: TA
-related_publications: false
 ---
 ** Syllabus **
 * Introduction to Control Systems
@@ -14,5 +13,5 @@ related_publications: false
 * Stability Analysis
 * Transient and Steady-state Response Analysis
 * Control Systems Analysis and Design by the Root-Locus Method
-* Control Systems Analysis and Design by the FrequencyResponse Method
+* Control Systems Analysis and Design by the Frequency-response Method
 * PID Controller
