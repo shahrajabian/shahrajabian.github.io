@@ -187,8 +187,11 @@ collections:
     permalink: /:collection/:title/
   projects:
     output: true
-    permalink: /:collection/:title/
-
+    permalink: /:collection/:title/ 
+  teaching:  
+    output: true  
+    permalink: /:collection/:title/ 
+    
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
