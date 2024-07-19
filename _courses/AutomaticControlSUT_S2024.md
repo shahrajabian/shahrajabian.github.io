@@ -5,6 +5,7 @@ title: Automatic Control
 description: Automatic Control
 importance: 1
 category: TA
+parent: teaching  
 ---
 ** Syllabus **
 * Introduction to Control Systems
