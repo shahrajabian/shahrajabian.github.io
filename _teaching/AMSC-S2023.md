@@ -45,13 +45,13 @@ Students will be assessed through a combination of assignments and a final proje
 
 __Syllabus:__
 - MATLAB Basics
- - Variables, Data Types, and Commonly Used Functions
- - Loops and Conditional Statements
- - Live Script
+  - Variables, Data Types, and Commonly Used Functions
+  - Loops and Conditional Statements
+  - Live Script
 - Advanced Topics in Arrays
- - Multidimensional Arrays and Array Indexing
- - Concatenate Arrays
- - Cells, Structures and Tables
+  - Multidimensional Arrays and Array Indexing
+  - Concatenate Arrays
+  - Cells, Structures and Tables
 - Advanced Approaches to Function Creation
  - Review of Function Creation
  - Function Handle and Nested Functions
