@@ -8,6 +8,7 @@ nav_order: 3
 ---
 Teaching is a high priority for me. I believe that it is our responsibility to share our fascination and knowledge to inspire future generations of students in the same way that it has been shared with us. 
 
+As a TA, I held review and problem-solving sessions, developed homework assignments, provided feedback on projects, designed exams, and graded them.
 Throughout my academic journey, I’ve had the privilege of being a teaching assistant/instructor for the following courses:
 
 
@@ -17,7 +18,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold"> <a href="/Automatic-Control-SUT/">Auomatic Control</a></h5>
+        <h5 class="font-weight-bold"> <a href="/AutomaticControlSUT_S2024/">Auomatic Control</a></h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" target="_blank"> 45135
@@ -94,9 +95,9 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate</li>  
     </ul> 
       <!-- <li class="list-group-item">— Lecture on gaussian mixture models (GMM): <a href="/assets/pdf/teaching/gmm_lecture.pdf">slides</a> </li> -->
-      <p style="text-indent:25px;">
+      <!--<p style="text-indent:25px;">
           Modern Control is a . As a TA, I held review and problem-solving sessions, developed homework assignments, provided feedback on projects, designed exams, and graded them.
-     </p>
+     </p> -->
   </div>
 </div>
 
@@ -121,6 +122,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate</li>  
     </ul> 
   </div>
+ </div>
 
 
 <div class="card mt-3">
