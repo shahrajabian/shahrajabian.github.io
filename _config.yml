@@ -190,7 +190,7 @@ collections:
     permalink: /:collection/:title/ 
   teaching:  
     output: true  
-    permalink: /:collection/:title/ 
+    permalink: /teaching/:path/ 
     
 announcements:
   enabled: true
