@@ -49,7 +49,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
   </div>
 </div>
 
-<h3 class="mt-4">Amirkabir University of Technology</h3>
+<h3 class="mt-4">Amirkabir University of Technology (Tehran Polytechnique)</h3>
 
 <div class="card mt-3">
   <div class="p-3">
@@ -64,7 +64,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Lab Instructor </h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
-      <li class="list-group-item" style="border-bottom: none; line-height: 1;">— Spring 2024</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Spring 2024</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.7;">— Department of Electrical Engineering</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.5;;">— Level: Undergraduate</li>  
     </ul> 
