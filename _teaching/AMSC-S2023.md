@@ -63,9 +63,9 @@ __Syllabus:__
   - Add Special Texts to Plots
   - Animated Plots
 -	Numerical Analysis
-  - Matlab and Simulink Solvers
-  - Numerical Solution of System of Nonlinear Algebraic Equations
-  - Numerical Solution of System of Differential Equations
+   - Matlab and Simulink Solvers
+   - Numerical Solution of System of Nonlinear Algebraic Equations
+   - Numerical Solution of System of Differential Equations
 - Symbolic Math Toolbox
   - Analytical Derivation and Integration
   - Analytical Solution of Equations
