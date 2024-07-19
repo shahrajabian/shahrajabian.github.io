@@ -3,9 +3,9 @@ layout: page
 permalink: /teaching/AutomaticControlSUT_S2024/
 title: Automatic Control
 description: Automatic Control
-importance: 1
-category: TA
-parent: teaching  
+# importance: 1
+# category: TA
+parent: Teaching  
 ---
 ** Syllabus **
 * Introduction to Control Systems
