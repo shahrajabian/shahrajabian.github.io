@@ -62,7 +62,7 @@ __Syllabus:__
   - Creating Plots Using for Loop
   - Add Special Texts to Plots
   - Animated Plots
--	Numerical Analysis
+  - Numerical Analysis
    - Matlab and Simulink Solvers
    - Numerical Solution of System of Nonlinear Algebraic Equations
    - Numerical Solution of System of Differential Equations
