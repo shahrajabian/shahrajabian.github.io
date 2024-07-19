@@ -28,8 +28,8 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
      <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Spring 2024</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Department of Aerospace Engineering</li>  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate</li>  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor:<a href="http://ae.sharif.edu/~portal/faculty/1869080903">Prof. Seyyed Ali Emami</a></li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor: <a href="http://ae.sharif.edu/~portal/faculty/1869080903">Prof. Seyyed Ali Emami</a></li> 
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate</li>   
     </ul> 
   </div>
 </div>
@@ -90,7 +90,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
     <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Fall 2022</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Department of Electrical Engineering</li>  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor:<a href="https://aut.ac.ir/cv/2091/Hajar Atrianfar">Prof. Hajar Atrianfar</a></li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor: <a href="https://aut.ac.ir/cv/2091/Hajar Atrianfar">Prof. Hajar Atrianfar</a></li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate</li>  
     </ul> 
       <!-- <li class="list-group-item">— Lecture on gaussian mixture models (GMM): <a href="/assets/pdf/teaching/gmm_lecture.pdf">slides</a> </li> -->
@@ -117,7 +117,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
     <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Spring 2023</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Department of Aerospace Engineering</li>  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor:<a href="https://aut.ac.ir/cv/2141/SEYED MAJID ESMAILIFAR">Prof. Seyed Majid Esmailifar</a></li> 
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor: <a href="https://aut.ac.ir/cv/2141/SEYED MAJID ESMAILIFAR">Prof. Seyed Majid Esmailifar</a></li> 
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate</li>  
     </ul> 
   </div>
@@ -138,7 +138,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
     <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Fall 2022</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Department of Electrical Engineering</li>  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor:<a href="https://aut.ac.ir/cv/2226/Iman Sharifi">Prof. Iman Sharifi</a></li> 
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor: <a href="https://aut.ac.ir/cv/2226/Iman Sharifi">Prof. Iman Sharifi</a></li> 
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate</li>  
     </ul> 
   </div>
