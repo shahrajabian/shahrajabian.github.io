@@ -36,8 +36,7 @@ __Course Format:__
 
 The course will be taught through a combination of lectures, discussions, and hands-on projects. Students will have access to MATLAB and Simulink software for the duration of the course and will be expected to complete assignments and projects outside of class time.
 
-__Assessment:__
-
+__Grading Policy:__ 
 Students will be assessed through a combination of assignments and a final project. Grades will be based on the quality of the work submitted, as well as participation in class discussions and activities.
 *	Assignments: 60 points
 *	Final Project: 40 points 
