@@ -29,7 +29,8 @@ __Assessment:__
 Students will be assessed through a combination of a final project and a final exam. Grades will be based on the quality of the work submitted.
 *	Attendance: 10 Points 
 *	Homework: 50 points
-*	Final Exam: 40 points 
+*	Final Exam: 40 points
+
 The certificate of attendance will be awarded to all registered students. However, the certificate of achievement will only be granted to those who attain a minimum of 70 points.
 
 __Text Books:__
