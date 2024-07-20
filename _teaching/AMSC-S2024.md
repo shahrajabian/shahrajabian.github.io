@@ -22,9 +22,9 @@ Students are expected to possess a basic understanding of MATLAB and Simulink. N
 
 __Course Format:__
 
-The course will be taught through a combination of lectures and hands-on projects. Students will have access to MATLAB and Simulink software for the duration of the course, and will be expected to complete assignments and project outside of class time.
+The course will be taught through a combination of lectures and hands-on projects. Students will have access to MATLAB and Simulink software for the duration of the course and will be expected to complete assignments and projects outside of class time.
 
-__Assessment:__
+__Grading Policy:__ 
 
 Students will be assessed through a combination of a final project and a final exam. Grades will be based on the quality of the work submitted.
 *	Attendance: 10 Points 
