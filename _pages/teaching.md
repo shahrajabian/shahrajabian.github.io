@@ -103,7 +103,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">  <a href="/teaching/ITMFE-Sp2024/">Introduction to MATLAB for engineers Course </a> </h5>
+        <h5 class="font-weight-bold">  <a href="/teaching/ITMFE-Sp2024/">Introduction to MATLAB for Engineers Course </a> </h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
       </div>
