@@ -64,7 +64,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold"> Advanced MATLAB and Simulink Course </h5>
+        <h5 class="font-weight-bold"> <a href="/teaching/AMSC-S2024/">Advanced MATLAB and Simulink Course</a> </h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
       </div>
@@ -103,7 +103,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">  Introduction to MATLAB for engineers Course </h5>
+        <h5 class="font-weight-bold">  <a href="/teaching/ITMFE-Sp2024/">Introduction to MATLAB for engineers Course </a> </h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
       </div>
