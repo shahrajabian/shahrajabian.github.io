@@ -22,10 +22,10 @@
   type: time_table
   contents:
     - title: Graduate Research Assistant
-      institution: Aerial Robotics Lab, Department of Aerospae Engineering, Sharif University of Technology
+      institution: Aerial Robotics Lab, Department of Aerospace Engineering, Sharif University of Technology
       description:
         - Supervisor: <a href="http://ae.sharif.edu/~portal/faculty/1066724069">Prof. Fariborz Saghafi</a>
-        - Master's Thesis: Intelligent Adaptive Fault-tolerant Control of an Autonomous Multi-rotor eVTOL Air Taxi
+        - Master Thesis: Intelligent Adaptive Fault-tolerant Control of an Autonomous Multi-rotor eVTOL Air Taxi
       year: Jan 2024 - Present
     - title: Research Assistant
       institution: Innovation Center, Department of Aerospace Engineering, Amirkabir University of Technology 
@@ -41,7 +41,7 @@ Enhanced 5G Internet Connectivity Applications
       description:
         - Supervisor: <a href="https://aut.ac.ir/cv/2141/SEYED MAJID ESMAILIFAR">Prof. Seyed Majid Esmailifar</a>
         - Bachelor's Thesis: Design and Implementation of Autopilot for Automatic Takeoff and Landing of a Quadrotor
-using the Model-Based Design Approac
+using the Model-Based Design Approach
 
     - title: Embedded Software Engineer (Part-time)
       institution: Avionics Office, Parvaz Afraz Hava Sanat Ltd., Tehran, Iran
@@ -51,7 +51,7 @@ using the Model-Based Design Approac
     - title: Engineering Intern
       institution: Avionics Office, Parvaz Afraz Hava Sanat Ltd., Tehran, Iran
       year: Jul 2021 - Sep 2021
-      description: Compared and evaluated various control methods employed in control system of a lift + cruise eVTOL aircraft.
+      description: Compared and evaluated various control methods employed in the control system of a lift + cruise eVTOL aircraft.
 
 - title: Honors and Awards
   type: time_table
