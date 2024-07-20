@@ -21,67 +21,53 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: Aerial Robotics Lab, Department of Aerospae Engineering, Sharif University of Technology
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Supervisor: <a href="http://ae.sharif.edu/~portal/faculty/1066724069">Prof. Fariborz Saghafi</a>
+        - Master's Thesis: Intelligent Adaptive Fault-tolerant Control of an Autonomous Multi-rotor eVTOL Air Taxi
+      year: Jan 2024 - Present
+    - title: Research Assistant
+      institution: Innovation Center, Department of Aerospace Engineering, Amirkabir University of Technology 
+      year: Jun 2023 - Dec 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisor: <a href="https://aut.ac.ir/cv/2141/SEYED MAJID ESMAILIFAR">Prof. Seyed Majid Esmailifar</a>
+        - Shafagh: A Solar-Powered High Altitude Long Endurance UAV for Sustainable Communication Relay and
+Enhanced 5G Internet Connectivity Applications
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Undergraduate Research Assistant
+      institution: Hardware-in-the-Loop Lab, Department of Aerospace Engineering, Amirkabir University of Technology
+      year: May 2021 - Sep 2022
       description:
+        - Supervisor: <a href="https://aut.ac.ir/cv/2141/SEYED MAJID ESMAILIFAR">Prof. Seyed Majid Esmailifar</a>
+        - Bachelor's Thesis: Design and Implementation of Autopilot for Automatic Takeoff and Landing of a Quadrotor
+using the Model-Based Design Approac
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Embedded Software Engineer (Part-time)
+      institution: Avionics Office, Parvaz Afraz Hava Sanat Ltd., Tehran, Iran
+      year: Oct 2021 Sep 2022
+      description: Contributed as a junior Embedded Control Software Engineer in an air taxi development co.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Engineering Intern
+      institution: Avionics Office, Parvaz Afraz Hava Sanat Ltd., Tehran, Iran
+      year: Jul 2021 - Sep 2021
+      description: Compared and evaluated various control methods employed in control system of a lift + cruise eVTOL aircraft.
 
 - title: Honors and Awards
   type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+  contents: 
+    - year: Oct 2023
+      items: 
+        - Ranked 1<sup>st</sup> among all peer master students majoring in Dynamics and Control at Sharif University of Technology
+    - year: Jan 2023
+      items: 
+        - Winner of the Shahid Vezvaei Award (selected elite student scholarship) from Iran’s National Elite Foundation
+     - year: Feb 2022
+      items: 
+        - Granted merit-based direct admission offer in Master of Aerospace Engineering from Sharif University of Technology
+    - year: Nov 2020
+      items: 
+        - Ranked 3<sup>rd</sup> among all peer bachelor students of Aerospace Engineering at Amirkabir University of Technology
+    - year: Sep 2019
+      items: 
+        - Recognized as an outstanding student (exceptional talent) and granted the opportunity to pursue Electrical Engineering as a second major during my Bachelor of Science at Amirkabir University of Technology
