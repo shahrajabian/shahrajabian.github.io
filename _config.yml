@@ -7,7 +7,8 @@ first_name: Mahdi
 middle_name:
 last_name: Shahrajabian
 email: mahdi.sharajabian@gmail.com
-description: >  My website. # Mahdi Shahrajabian’s website. 
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Mahdi Shahrajabian’s website. 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: control, autonomous systems, intelligent systems, robotics
