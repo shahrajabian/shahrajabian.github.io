@@ -30,8 +30,3 @@ The group photos from the last session of my classes as a teaching assistant/ins
         {% include figure.html path="assets/img/assets/img/MC-AUT-F2023-2.JPG" title="Modern Control, Fall 2023, Amirkabir University of Technology" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="row">  
-    <div class="col text-center mt-2">  
-        <div class="caption text-center"> Modern Control, Fall 2023, Amirkabir University of Technology</div>  
-    </div>  
-</div>  
