@@ -28,12 +28,12 @@ The group photos from the last session of my classes as a teaching assistant/ins
 <div class="row mt-3">  
     <div class="col-sm">  
         <figure>  
-            {% include figure.html path="assets/img/MC-AUT-F2023-1.JPG" title="Modern Control, Fall 2023, Amirkabir University of Technology" class="img-fluid rounded z-depth-1" %}  
+            {% include figure.html path="assets/img/MC-AUT-F2023-1.jpg" title="Modern Control, Fall 2023, Amirkabir University of Technology" class="img-fluid rounded z-depth-1" %}  
         </figure>  
     </div>  
     <div class="col-sm">  
         <figure>  
-            {% include figure.html path="assets/img/MC-AUT-F2023-2.JPG" title="Modern Control, Fall 2023, Amirkabir University of Technology" class="img-fluid rounded z-depth-1" %}  
+            {% include figure.html path="assets/img/MC-AUT-F2023-2.jpg" title="Modern Control, Fall 2023, Amirkabir University of Technology" class="img-fluid rounded z-depth-1" %}  
         </figure>  
     </div>  
 </div>  
