@@ -10,17 +10,6 @@ The group photos from the last session of my classes as a teaching assistant/ins
 
 <div class="row mt-3">  
     <div class="col-sm">  
-        {% include figure.html path="assets/img/AC-SUT-S2024.jpg" title="Automatic Control, Spring 2024, Sharif University of Technology" class="img-fluid rounded z-depth-1" %}
-        <div class="caption text-center">Automatic Control, Spring 2024, Sharif University of Technology</div>  
-    </div>  
-    <div class="col-sm">  
-        {% include figure.html path="assets/img/LCSL_Pic.jpg" title="Linear Control Systems Lab, Spring 2024, Amirkabir University of Technology" class="img-fluid rounded z-depth-1" %}
-        <div class="caption text-center">Linear Control Systems Lab, Spring 2024, Amirkabir University of Technology</div>  
-    </div>  
-</div>  
-
-<div class="row mt-3">  
-    <div class="col-sm">  
         {% include figure.html path="assets/img/MC-AUT-F2023-1.JPG" title="Modern Control, Fall 2023, Amirkabir University of Technology" class="img-fluid rounded z-depth-1" %}
     </div>  
     <div class="col-sm">  
