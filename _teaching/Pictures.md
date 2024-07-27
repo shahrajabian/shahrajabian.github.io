@@ -24,31 +24,3 @@ The group photos from the last session of my classes as a teaching assistant/ins
     </div>  
 </div>  
 
-<!-- Row for side-by-side images -->  
-<div class="row mt-3">  
-    <div class="col-sm">  
-        <figure>  
-            {% include figure.html path="assets/img/MC-AUT-F2023-1.jpg" title="Modern Control, Fall 2023, Amirkabir University of Technology" class="img-fluid rounded z-depth-1" %}  
-        </figure>  
-    </div>  
-    <div class="col-sm">  
-        <figure>  
-            {% include figure.html path="assets/img/MC-AUT-F2023-2.jpg" title="Modern Control, Fall 2023, Amirkabir University of Technology" class="img-fluid rounded z-depth-1" %}  
-        </figure>  
-    </div>  
-</div>  
-
-<div class="row">  
-    <div class="col text-center mt-2">  
-        <figcaption>Modern Control, Fall 2023, Amirkabir University of Technology</figcaption>  
-    </div>  
-</div>  
-
-<div class="row mt-3">  
-    <div class="col">  
-        <figure>  
-            {% include figure.html path="assets/img/Calculus-AUT-F2019.jpg" title="Calculus, Fall 2019, Amirkabir University of Technology" class="img-fluid rounded z-depth-1" %}   
-            <figcaption>Calculus, Fall 2019, Amirkabir University of Technology</figcaption>  
-        </figure>  
-    </div>  
-</div>
