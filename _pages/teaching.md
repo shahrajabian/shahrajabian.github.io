@@ -12,7 +12,7 @@ As a TA, I held review and problem-solving sessions, developed homework assignme
 
 Throughout my academic journey, I’ve had the privilege of being a teaching assistant/instructor for the following courses:
 
-(<a href="/teaching/Pictures/">See the group photos from the last session.</a>)
+(<a href="/teaching/Pictures/">See </a> the group photos from the last session.)
 
 <h3 class="mt-4">Sharif University of Technology</h3>
 
