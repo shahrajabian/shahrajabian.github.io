@@ -16,7 +16,6 @@ The group photos from the last session of my classes as a teaching assistant/ins
             <figcaption>Automatic Control, Spring 2024, Sharif University of Technology</figcaption>  
         </figure>  
     </div>  
-
     <div class="col-sm">  
         <figure>  
             {% include figure.html path="assets/img/LCSL_Pic.jpg" title="Linear Control Systems Lab, Spring 2024, Amirkabir University of Technology" class="img-fluid rounded z-depth-1" %}  
