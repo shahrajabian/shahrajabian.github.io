@@ -6,12 +6,13 @@ description:
 nav: true
 nav_order: 3
 ---
-Teaching is a high priority for me. I believe that it is our responsibility to share our fascination and knowledge to inspire future generations of students in the same way that it has been shared with us. 
+Teaching is a high priority for me. I believe it's our responsibility to share our experiences and knowledge to inspire future students. By doing so, we can guide them, foster their passions, and empower them to reach their full potential.
 
 As a TA, I held review and problem-solving sessions, developed homework assignments and projects, provided feedback on projects, designed exams, and graded them.
 
 Throughout my academic journey, I’ve had the privilege of being a teaching assistant/instructor for the following courses:
 
+(<a href="/teaching/Pictures/">See the group photos from the last session.</a>)
 
 <h3 class="mt-4">Sharif University of Technology</h3>
 
