@@ -7,5 +7,3 @@ parent: Teaching
 ---
 
 The group photos from the last session of my classes as a teaching assistant/instructor are available for viewing below:
-
-{% include figure.html path="assets/img/AC-SUT-S2024.jpg" title="Automatic Control, Spring 2024, Sharif University of Technology" %}
