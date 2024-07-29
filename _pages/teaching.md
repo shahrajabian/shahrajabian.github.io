@@ -20,7 +20,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold"> Auomatic Control</h5>
+        <h5 class="font-weight-bold"> Automatic Control</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" target="_blank"> 45135
