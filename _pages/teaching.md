@@ -73,7 +73,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
     <h6 class="font-italic mt-2 mt-sm-0">Instructor </h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Summer 2024</li>  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Scientific Society of Mechanical Engineering</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Scientific Association of Mechanical Engineering Department</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate/Graduate</li>  
     </ul> 
   </div>
@@ -112,7 +112,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
     <h6 class="font-italic mt-2 mt-sm-0">Instructor </h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Spring 2024</li>  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Scientific Society of Mechanical Engineering</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Scientific Association of Mechanical Engineering Department</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate/Graduate</li>  
     </ul> 
   </div>
@@ -157,7 +157,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
     <h6 class="font-italic mt-2 mt-sm-0">Instructor </h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Summer 2023</li>  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Scientific Society of Aerospace Engineering</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Scientific Association of Aerospace Engineering Department</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate/Graduate</li>  
     </ul> 
   </div>
@@ -221,7 +221,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
     <h6 class="font-italic mt-2 mt-sm-0">Instructor </h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Oct 2018 - May 2022 (offered 8 times)</li>  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Scientific Society of Aerospace Engineering </li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Scientific Association of Aerospace Engineering Department</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate</li>  
     </ul> 
   </div>
