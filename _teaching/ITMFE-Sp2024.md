@@ -14,7 +14,7 @@ The Introduction to MATLAB for Engineers course is designed to provide students 
 
 __Course Schedule:__
 
-This course is held by the Scientific Society of Mechanical Engineering at Amirkabir University of Technology and is scheduled to commence on April 18<sup>th</sup>, 2024 and will span over 5 weeks, with classes held every Thursday and Friday from 12:00 to 14:00, totaling 20 hours of instruction.
+This course is held by the Scientific Association of Mechanical Engineering Department at Amirkabir University of Technology and is scheduled to commence on April 18<sup>th</sup>, 2024 and will span over 5 weeks, with classes held every Thursday and Friday from 12:00 to 14:00, totaling 20 hours of instruction.
 
 __Course Format:__
 
