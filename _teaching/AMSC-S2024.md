@@ -14,7 +14,7 @@ This course is designed for students who already have some experience with MATLA
 
 __Course Schedule:__
 
-This course is held by the Scientific Society of Mechanical Engineering at Amirkabir University of Technology and is scheduled to commence on August 8<sup>th</sup>, 2024 and will span over 6 weeks, with classes held every Thursday and Friday from 17:00 to 19:00, totaling 24 hours of instruction.
+This course is held by the Scientific Association of Mechanical Engineering Department at Amirkabir University of Technology and is scheduled to commence on August 8<sup>th</sup>, 2024 and will span over 6 weeks, with classes held every Thursday and Friday from 17:00 to 19:00, totaling 24 hours of instruction.
 
 __Prerequisites:__
 
