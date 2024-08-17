@@ -31,5 +31,5 @@ I am interested in building assured and dependable autonomous systems that will 
 
 In my spare time, I engage in sports like bodybuilding and running, as well as enjoying outdoor activities such as hiking, camping, and climbing with friends and family. Kickboxing used to be a part of my routine as well.
 
-Thank you for visiting my website. Whether you’re a fellow researcher, a prospective student, or simply curious about may work, I hope you find the information here helpful and motivating. Please feel free to [reach out](mailto:mahdi.sharajabian@gmail.com) if you have any questions or would like to discuss potential collaborations.
+Thank you for visiting my website. Whether you’re a fellow researcher, a prospective student, or simply curious about may work, I hope you find the information here helpful and motivating. Please feel free to [reach out](mailto:m.shahrajabian99@gmail.com) if you have any questions or would like to discuss potential collaborations.
 
