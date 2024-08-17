@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Mahdi
 middle_name:
 last_name: Shahrajabian
-email: mahdi.sharajabian@gmail.com
+email: m.shahrajabian99@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Mahdi Shahrajabian's Website. 
 footer_text: >
@@ -98,7 +98,7 @@ scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
-telegram_username: mahdi_shahrajabian # your Telegram user name
+telegram_username: # mahdi_shahrajabian # your Telegram user name
 unsplash_id: # your unsplash id
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: intelligent autonomous systems # blog_name will be displayed in your blog page
+blog_name: autonomous systems # blog_name will be displayed in your blog page
 blog_description: 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
