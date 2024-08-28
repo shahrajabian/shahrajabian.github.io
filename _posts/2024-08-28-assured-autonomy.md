@@ -3,6 +3,8 @@ layout: post
 title: Assured and Dependable Autonomy in Aerial Vehicles
 date: 2024-08-28 10:20:15
 description: Safe Autonomous Aerial Vehicles
+tags: autonomous-systems
+categories: autonomy
 ---
 
 The evolution of aerial vehicles, namely unmanned aerial vehicles (UAVs), and air taxis in urban air mobility (UAM) has introduced a modern era of autonomy in aviation. As these systems are being adopted in logistics, assured autonomy is integral to the success and acceptance of these technologies. Assured autonomy in aerial vehicles is the level of confidence that these aerial systems or vehicles will operate safely and efficiently according to established safety protocols or regulations. Assured autonomy is essential, particularly in the case of human lives or sensitive operations. Dependable autonomy, on the other hand, refers to the assurance and robustness of aerial systems. Dependable autonomy offers assurance of performance and functionality in normal and adverse conditions such as bad weather,  faults, or unexpected obstacles. For example, a dependable aerial vehicle can operate in rain, wind, and urban landscapes filled with buildings and other structures. 
