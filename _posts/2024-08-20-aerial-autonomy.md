@@ -3,7 +3,7 @@ layout: post
 title: Safe Autonomous Aerial Vehicles
 date: 2024-08-20 16:40:16
 description: Assured and Dependable Autonomy in Aerial Vehicles
-tags: autonomous-systems
+tags: autonomous systems
 categories: autonomy
 ---
 
