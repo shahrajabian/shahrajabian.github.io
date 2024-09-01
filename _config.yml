@@ -297,7 +297,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["control","MPC", "learning-based control", "neural networks","autonomous systems","robotics", "multi-agent systems"] # these tags will be displayed on the front page of your blog
+display_tags: ["control","MPC", "learning-based-control", "neural networks","autonomous-systems","robotics", "multi-agent-systems"] # these tags will be displayed on the front page of your blog
 display_categories: ["control","autonomy","robotics"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
