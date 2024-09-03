@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Control Methods
-date: 2024-09-03 10:00:10
+date: 2024-09-01 10:00:10
 description: Classification of Control Methods in Control Theory
 tags: control
 categories: control
@@ -13,7 +13,7 @@ One of the primary distinctions is between model-based and model-free control st
 
 Furthermore, model-based control methods can also be categorized as linear or nonlinear. Linear control methods are based on linear models that describe the system's behavior, which simplifies the analysis and design of control systems. These methods are often easier to implement and understand, making them suitable for a wide range of applications where system dynamics can be approximated as linear. On the other hand, nonlinear control methods are designed to handle systems exhibiting complex behaviors that cannot be accurately captured by linear equations. Nonlinear control techniques are essential for managing systems with inherent nonlinearities, such as saturation, hysteresis, or varying operational conditions, and they often require more sophisticated mathematical tools and approaches.
 
-A summary of the different control methods (control strategies) is shown in the following figure. It is worth noting that there are various combinations of these control methods found in the literature. (Download pdf file of the diagram from .)
+A summary of the different control methods (control strategies) is shown in the following figure. It is worth noting that there are various combinations of these control methods found in the literature. (Download the pdf file of the diagram from here.)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
