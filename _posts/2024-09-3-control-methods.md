@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Control Methods
-date: 2024-02-10 15:00:10
+date: 2024-09-3 10:00:10
 description: Classification of Control Methods in Control Theory
 tags: control
 categories: control
@@ -13,12 +13,12 @@ One of the primary distinctions is between model-based and model-free control st
 
 Furthermore, model-based control methods can also be categorized as linear or nonlinear. Linear control methods are based on linear models that describe the system's behavior, which simplifies the analysis and design of control systems. These methods are often easier to implement and understand, making them suitable for a wide range of applications where system dynamics can be approximated as linear. On the other hand, nonlinear control methods are designed to handle systems exhibiting complex behaviors that cannot be accurately captured by linear equations. Nonlinear control techniques are essential for managing systems with inherent nonlinearities, such as saturation, hysteresis, or varying operational conditions, and they often require more sophisticated mathematical tools and approaches.
 
-A summary of the different control methods (control strategies) is shown in the following chart. It is worth noting that there are various combinations of these control methods found in the literature.
+A summary of the different control methods (control strategies) is shown in the following chart. It is worth noting that there are various combinations of these control methods found in the literature. (Download pdf file of the chart from [here](assets/pdf/Control Methods.pdf).)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Control Methods.png" title="Control Methods" class="img-fluid rounded z-depth-1" %}
-        <div class="caption text-center">Control Methods</div>  
+        {% include figure.liquid loading="eager" path="assets/img/Control Methods.png" title="Classification of Control Methods in Control Theory" class="img-fluid rounded z-depth-1" %}
+        <div class="caption text-center">Classification of Control Methods in Control Theory</div>  
     </div>
 </div>
 
