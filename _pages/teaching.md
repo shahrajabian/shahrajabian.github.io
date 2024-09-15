@@ -16,6 +16,29 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
 
 <h3 class="mt-4">Sharif University of Technology</h3>
 
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold"> Optimal Control</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" target="_blank"> 45135
+        </a>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Graduate Teaching Assistant</h6>
+     <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Fall 2024</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Department of Aerospace Engineering</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor: <a href="https://ae.sharif.edu/~portal/faculty/1620071451">Prof. Seid H. Pourtakdoust</a></li> 
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Graduate</li>   
+    </ul> 
+  </div>
+</div>
+
+
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -60,6 +83,32 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
 </div>
 
 <h3 class="mt-4">Amirkabir University of Technology (Tehran Polytechnique)</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Modern Control</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" target="_blank">
+            2356113
+        </a>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Head Teaching Assistant</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Fall 2024, Fall 2023</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Department of Electrical Engineering</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor: <a href="https://aut.ac.ir/cv/2091/Hajar Atrianfar">Prof. Hajar Atrianfar</a></li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate</li>  
+    </ul> 
+      <!-- <li class="list-group-item">— Lecture on gaussian mixture models (GMM): <a href="/assets/pdf/teaching/gmm_lecture.pdf">slides</a> </li> -->
+      <!--<p style="text-indent:25px;">
+          Modern Control is a . As a TA, I held review and problem-solving sessions, developed homework assignments, provided feedback on projects, designed exams, and graded them.
+     </p> -->
+  </div>
+</div>
 
  <div class="card mt-3">
   <div class="p-3">
@@ -115,33 +164,6 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Scientific Association of Mechanical Engineering Department</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate/Graduate</li>  
     </ul> 
-  </div>
-</div>
-
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 class="font-weight-bold">Modern Control</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <a class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" target="_blank">
-            2356113
-        </a>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Head Teaching Assistant</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush" style="list-style-type: none; padding: 0;">  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Fall 2023</li>  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Department of Electrical Engineering</li>  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor: <a href="https://aut.ac.ir/cv/2091/Hajar Atrianfar">Prof. Hajar Atrianfar</a></li>  
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate</li>  
-    </ul> 
-      <!-- <li class="list-group-item">— Lecture on gaussian mixture models (GMM): <a href="/assets/pdf/teaching/gmm_lecture.pdf">slides</a> </li> -->
-      <!--<p style="text-indent:25px;">
-          Modern Control is a . As a TA, I held review and problem-solving sessions, developed homework assignments, provided feedback on projects, designed exams, and graded them.
-     </p> -->
   </div>
 </div>
 
