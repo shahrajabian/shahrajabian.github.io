@@ -15,7 +15,7 @@ Furthermore, model-based control methods can also be categorized as linear or no
 
 A summary of the different control methods (control strategies) is shown in the following figure. It is worth noting that there are various combinations of these control methods found in the literature. 
 
-Download the high-resolution file of the diagram from [here](https://shahrajabian.github.io/assets/img/Control Methods.png).
+Download the high-resolution file of the diagram from [here](https://shahrajabian.github.io/assets/img/ControlMethods.png).
 
 Download the pdf file of the diagram with reference links to the control methods from [here](https://shahrajabian.github.io/assets/pdf/Control_Methods.pdf).
 
