@@ -21,7 +21,7 @@ Download the pdf file of the diagram with reference links to the control methods
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Control Methods.png" title="Classification of Control Methods in Control Theory" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ControlMethods.png" title="Classification of Control Methods in Control Theory" class="img-fluid rounded z-depth-1" %}
         <div class="caption text-center">Classification of Control Methods in Control Theory</div>  
     </div>
 </div>
