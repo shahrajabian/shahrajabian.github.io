@@ -19,11 +19,11 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! I am Mahdi. I received dual B.Sc. degrees in Aerospace Engineering and Electrical Engineering, with a focus on dynamics and control, from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in 2022. Currently, I am pursuing an M.Sc. degree in Aerospace Engineering at [Sharif University of Technology](https://en.sharif.edu/), specializing in the development of a safe intelligent control system for an eVTOL air taxi.
 
-I am interested in building assured and dependable autonomous systems that will benefit society. In order to achieve this long-term objective,  I believe we need learning-based, predictive and data-driven methods for planning, decision-making and control that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety.
+I am interested in building assured autonomous systems that will benefit society. In order to achieve this long-term objective,  I believe we need learning-based, predictive and data-driven methods for planning, decision-making and control that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety.
 
 **Research Interests:**
-* Assured and Dependable Autonomous Systems
-* Learning-Based Control
+* Assured Autonomous Systems
+* Safe Learning-Based Control
 * Model Predictive Control 
 * Data-Driven Modeling and Control
 * Resilient Flight Control
