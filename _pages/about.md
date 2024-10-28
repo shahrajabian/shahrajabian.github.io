@@ -22,7 +22,7 @@ Hi there! I am Mahdi. I received dual B.Sc. degrees in Electrical Engineering an
 I am interested in building assured autonomous systems that will benefit society. In order to achieve this long-term objective,  I believe we need learning-based, predictive and data-driven methods for planning, decision-making and control that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety.
 
 **Research Interests:**
-* Assured Autonomous Systems
+* Assured Autonomous Systems and Robotics
 * Safe Learning-Based Control
 * Model Predictive Control 
 * Data-Driven Modeling and Control
