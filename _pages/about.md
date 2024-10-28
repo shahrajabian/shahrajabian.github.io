@@ -26,7 +26,7 @@ I am interested in building assured autonomous systems that will benefit society
 * Safe Learning-Based Control
 * Model Predictive Control 
 * Data-Driven Modeling and Control
-* Resilient Control
+* Fault-Tolerant and Resilient Control
 * Control of Multi-Agent Systems
 
 In my spare time, I engage in sports like bodybuilding and running, as well as enjoying outdoor activities such as hiking, camping, and climbing with friends and family. Kickboxing used to be a part of my routine as well.
