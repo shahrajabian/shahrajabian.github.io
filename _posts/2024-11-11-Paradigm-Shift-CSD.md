@@ -9,6 +9,9 @@ categories: control
 
 
 This diagram highlights the different eras in control systems development, showcasing the key ideas and challenges addressed during each phase. 
+As our systems have grown increasingly complex—dealing with variable dynamic characteristics, strong nonlinearities, heavy coupling, unclear mechanisms and mathematically un-modellable—the limitations of existing control theories have become more apparent. This complexity makes modeling a daunting task, underscoring the urgent need for innovative control methods.
+
+
 The content of the diagram is primarily inspired by concepts from Prof. Ali Khaki-Sedigh’s book, An Introduction to Data-Driven Control Systems (John Wiley & Sons, 2023)
 
 Download the high-resolution file of the diagram from [here](https://shahrajabian.github.io/assets/img/Paradigm_Shift_in_Control_Systems_Design.png).
