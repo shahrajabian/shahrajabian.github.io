@@ -13,6 +13,6 @@ Download the presentation file from [here](https://shahrajabian.github.io/assets
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/control_theory_aut.png" title="Introduction to Control Theory and its applications" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/aut_control_theory.png" title="Introduction to Control Theory and its applications" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
