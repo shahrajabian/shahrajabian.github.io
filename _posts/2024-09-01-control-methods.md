@@ -5,6 +5,7 @@ date: 2024-09-01 10:00:10
 description: Classification of Control Methods in Control Theory
 tags: control
 categories: control
+thumbnail: assets/img/ControlMethods.png
 ---
 
 Control methods in control theory can be classified into several categories based on various criteria, each reflecting different approaches to managing dynamic systems.
