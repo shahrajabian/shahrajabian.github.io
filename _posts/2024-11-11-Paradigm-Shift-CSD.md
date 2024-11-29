@@ -5,6 +5,7 @@ date: 2024-11-11 10:00:10
 description: Paradigm Shift in Control Systems Design
 tags: control
 categories: control
+thumbnail: assets/img/Paradigm_Shift_in_Control_Systems_Design.png
 ---
 
 
