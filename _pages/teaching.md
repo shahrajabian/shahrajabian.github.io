@@ -101,6 +101,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Department of Electrical Engineering</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor: <a href="https://aut.ac.ir/cv/2091/Hajar Atrianfar">Prof. Hajar Atrianfar</a></li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Undergraduate</li>  
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Homeworks: <a href="https://shahrajabian.github.io/assets/pdf/HWs/MC_HW1.pdf">HW1</a>, <a href="https://shahrajabian.github.io/assets/pdf/HWs/MC_HW2.pdf">HW2</a>, <a href="https://shahrajabian.github.io/assets/pdf/HWs/MC_HW3.pdf">HW3</a>, <a href="https://shahrajabian.github.io/assets/pdf/HWs/MC_HW4.pdf">HW4</a>, <a href="https://shahrajabian.github.io/assets/pdf/HWs/MC_HW5.pdf">HW5</a>, <a href="https://shahrajabian.github.io/assets/pdf/HWs/MC_HW6.pdf">HW5</a></li>   
     </ul> 
       <!-- <li class="list-group-item">— Lecture on gaussian mixture models (GMM): <a href="/assets/pdf/teaching/gmm_lecture.pdf">slides</a> </li> -->
       <!--<p style="text-indent:25px;">
