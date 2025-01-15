@@ -9,7 +9,7 @@ parent: Teaching
 The group photos from the last session of my classes as a teaching assistant/instructor are available for viewing below:
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/OC_SUT_F2024.HEIC" title="Optimal Control Theory, Fall 2024, Sharif University of Technology" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/OC_SUT_F2024.jpg" title="Optimal Control Theory, Fall 2024, Sharif University of Technology" class="img-fluid rounded z-depth-1" %}
         <div class="caption text-center">Optimal Control Theory with Prof. S. H. Pourtakdoust, Fall 2024, Sharif University of Technology</div>  
     </div>
 </div>
