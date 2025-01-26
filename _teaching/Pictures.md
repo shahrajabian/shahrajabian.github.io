@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/Pictures/
-title: Group pictures from the classes I taught
+title: Class Group Photos from My Teaching Sessions
 description: 
 parent: Teaching  
 ---
