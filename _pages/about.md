@@ -22,12 +22,12 @@ Hi there! I am Mahdi. I received dual B.Sc. degrees in Electrical Engineering an
 I am interested in building assured autonomous systems that will benefit society. In order to achieve this long-term objective,  I believe we need learning-based, predictive and data-driven methods for planning, decision-making and control that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety.
 
 **Research Interests:**
-* Assured Autonomous Systems and Robotics
+* Optimal Control
+* Model Predictive Control
+* Adaptive Nonlinear Control
 * Safe Learning-Based Control
-* Model Predictive Control 
 * Data-Driven Modeling and Control
-* Fault-Tolerant and Resilient Control
-* Control of Multi-Agent Systems
+* Assured Autonomous Systems and Robotics
 
 In my spare time, I engage in sports like bodybuilding and running, as well as enjoying outdoor activities such as hiking, camping, and climbing with friends and family. Kickboxing used to be a part of my routine as well.
 
