@@ -25,7 +25,7 @@ I am interested in building assured autonomous systems that will benefit society
 **Research Interests:**
 * Optimal Control
 * Model Predictive Control
-* Adaptive Nonlinear Control
+* Safety-Critical Control
 * Safe Learning-Based Control
 * Data-Driven Modeling and Control
 * Assured Autonomous Systems and Robotics
