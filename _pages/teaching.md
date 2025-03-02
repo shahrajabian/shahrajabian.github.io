@@ -102,7 +102,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
   </div>
 </div>
 
-<h3 class="mt-4">Amirkabir University of Technology (Tehran Polytechnique)</h3>
+<h3 class="mt-4">Amirkabir University of Technology (Tehran Polytechnic)</h3>
 
 <div class="card mt-3">
   <div class="p-3">
