@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 latest_posts: false
 social: true # includes social icons at the bottom of the page
 ---
-
-Hi there! I am Mahdi. I received dual B.Sc. degrees in Electrical Engineering and Aerospace Engineering, with a focus on dynamic systems and control, from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in 2022. Currently, I am pursuing an M.Sc. degree in Dynamics and Control at [Sharif University of Technology](https://en.sharif.edu/), specializing in the development of a safe intelligent control system for an eVTOL air taxi.
+Hi! I'm Mahdi, a control engineer and researcher passionate about control theory and its applications. I hold dual B.Sc. degrees in Electrical and Aerospace Engineering from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en), where I specialized in dynamic systems and control. Currently, I'm pursuing an M.Sc. in Dynamics and Control at [Sharif University of Technology](https://en.sharif.edu/), focusing on developing safe intelligent control systems for eVTOL air taxis.
+#Hi there! I am Mahdi. I received dual B.Sc. degrees in Electrical Engineering and Aerospace Engineering, with a focus on dynamic systems and control, from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in 2022. Currently, I am pursuing an M.Sc. degree in Dynamics and Control at [Sharif University of Technology](https://en.sharif.edu/), specializing in the development of a safe intelligent control system for an eVTOL air taxi.
 
 I am interested in building assured autonomous systems that will benefit society. In order to achieve this long-term objective,  I believe we need learning-based, predictive and data-driven methods for planning, decision-making and control that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety.
 
