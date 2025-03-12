@@ -23,7 +23,7 @@ Hi! I'm Mahdi, a control engineer and researcher passionate about control theory
 I am interested in building assured autonomous systems that will benefit society. In order to achieve this long-term objective,  I believe we need learning-based, predictive and data-driven methods for planning, decision-making and control that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety.
 
 **Research Interests:**
-* Optimal Control
+* Automatic Control
 * Model Predictive Control
 * Safety-Critical Control
 * Safe Learning-Based Control
