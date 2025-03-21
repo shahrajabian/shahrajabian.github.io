@@ -20,12 +20,15 @@ social: true # includes social icons at the bottom of the page
 Hi! I'm Mahdi, a control engineer and researcher passionate about control theory and its applications. I hold dual B.Sc. degrees in Electrical and Aerospace Engineering from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en), where I specialized in dynamic systems and control. Currently, I'm pursuing an M.Sc. in Dynamics and Control at [Sharif University of Technology](https://en.sharif.edu/), focusing on developing safe intelligent control systems for eVTOL air taxis.
 <!--- Hi there! I am Mahdi. I received dual B.Sc. degrees in Electrical Engineering and Aerospace Engineering, with a focus on dynamic systems and control, from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in 2022. Currently, I am pursuing an M.Sc. degree in Dynamics and Control at [Sharif University of Technology](https://en.sharif.edu/), specializing in the development of a safe intelligent control system for an eVTOL air taxi. -->
 
-I am interested in building assured autonomous systems that will benefit society. In order to achieve this long-term objective,  I believe we need learning-based, predictive and data-driven methods for planning, decision-making and control that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety.
+<!-- I am interested in building assured autonomous systems that will benefit society. In order to achieve this long-term objective,  I believe we need learning-based, predictive and data-driven methods for planning, decision-making and control that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety.-->
+My aim is to contribute to the development of a sustainable society by advancing assured autonomous systems and optimizing their use. I envision a future where these systems revolutionize various sectors, including transportation, healthcare, manufacturing, agriculture, and disaster response , delivering unprecedented levels of efficiency, precision, and adaptability.
 
-**Research Interests:**
+To achieve this long-term objective, I believe we need predictive, data-driven, and learning-based methods for planning, decision-making, and control—methods that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety. Currently, I am interested in developing computationally efficient, data-driven optimal controllers for uncertain or unknown systems with real-time online learning capabilities, guaranteeing closed-loop stability and safety (i.e., constraint satisfaction). More specifically, my research interests include:
+
+<!-- **Research Interests:**-->
 * Automatic Control
 * Model Predictive Control
-* Safety-Critical Control
+* Optimization-Based Control
 * Safe Learning-Based Control
 * Data-Driven Modeling and Control
 * Assured Autonomous Systems and Robotics
