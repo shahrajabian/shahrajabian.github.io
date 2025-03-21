@@ -28,8 +28,8 @@ To achieve this long-term objective, I believe we need predictive, data-driven, 
 <!-- **Research Interests:**-->
 * Automatic Control
 * Model Predictive Control
-* Optimization-Based Control
 * Safe Learning-Based Control
+* Safety-Critical Systems
 * Data-Driven Modeling and Control
 * Assured Autonomous Systems and Robotics
 
