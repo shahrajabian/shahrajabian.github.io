@@ -22,7 +22,7 @@ Hi! I'm Mahdi, a control engineer and researcher passionate about control theory
 
 My aim is to contribute to the development of a sustainable society by advancing assured autonomous systems and optimizing their use. I picture a world where these kinds of systems completely transform things like transportation, healthcare, manufacturing, farming, and even disaster response—making everything more efficient, precise, and adaptable. 
 
-To achieve this long-term objective, I believe we need predictive, data-driven, and learning-based methods for planning, decision-making, and control—methods that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety. Lately, I’ve been especially focused on developing computationally efficient, learning-based controllers that can handle uncertain or unknown systems, learn on the fly, and still keep everything stable and within safe limits. More specifically, my research interests include:
+To achieve this long-term objective, I believe we need predictive, data-driven, and learning-based methods for planning, decision-making, and control—methods that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety. Lately, I’ve been especially focused on developing computationally efficient, learning-based controllers that can handle uncertain or unknown systems, learn on the fly, and still keep the system stable and within safe limits. More specifically, my research interests include:
 
 <!-- **Research Interests:**-->
 * Control Theory
@@ -32,7 +32,7 @@ To achieve this long-term objective, I believe we need predictive, data-driven, 
 * Safety-Critical Systems
 * Assured Autonomous Systems and Robotics
 
-In my free time, I like to stay active with sports like bodybuilding and running, and I really enjoy outdoor adventures like hiking, camping, and climbing with friends and family. I used to do kickboxing too—it was a fun challenge!
+In my free time, I like to stay active with sports like bodybuilding and running, and I really enjoy outdoor adventures like hiking, camping, and climbing with friends and family. I used to do kickboxing too.
 
 Thanks for stopping by my website! Whether you're a fellow researcher, a student exploring the field, or just curious about what I do, I hope you find something here that sparks your interest. Feel free to [reach out](mailto:m.shahrajabian99@gmail.com) if you have any questions or want to chat about possible collaborations!
 
