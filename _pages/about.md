@@ -17,23 +17,22 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 latest_posts: false
 social: true # includes social icons at the bottom of the page
 ---
-Hi! I'm Mahdi, a control engineer and researcher passionate about control theory and its applications. I hold dual B.Sc. degrees in Electrical and Aerospace Engineering from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/), where I specialized in dynamic systems and control. Currently, I'm pursuing an M.Sc. in Dynamics and Control at [Sharif University of Technology](https://en.sharif.edu/), focusing on developing safe intelligent control systems for eVTOL air taxis.
-<!--- Hi there! I am Mahdi. I received dual B.Sc. degrees in Electrical Engineering and Aerospace Engineering, with a focus on dynamic systems and control, from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) in 2022. Currently, I am pursuing an M.Sc. degree in Dynamics and Control at [Sharif University of Technology](https://en.sharif.edu/), specializing in the development of a safe intelligent control system for an eVTOL air taxi. -->
+Hi! I'm Mahdi, a control engineer and researcher passionate about control theory and its applications. Currently,  I’m working on my master’s in Dynamics and Control at [Sharif University of Technology](https://en.sharif.edu/), where I’m focusing on developing safe intelligent control systems for eVTOL air taxis. I also hold dual B.Sc. degrees in Electrical and Aerospace Engineering from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/), where I specialized in dynamic systems and control. 
 
-<!-- I am interested in building assured autonomous systems that will benefit society. In order to achieve this long-term objective,  I believe we need learning-based, predictive and data-driven methods for planning, decision-making and control that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety.-->
-My aim is to contribute to the development of a sustainable society by advancing assured autonomous systems and optimizing their use. I envision a future where these systems revolutionize various sectors, including transportation, healthcare, manufacturing, agriculture, and disaster response , delivering unprecedented levels of efficiency, precision, and adaptability.
 
-To achieve this long-term objective, I believe we need predictive, data-driven, and learning-based methods for planning, decision-making, and control—methods that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety. Currently, I am interested in developing computationally efficient, data-driven optimal controllers for uncertain or unknown systems with real-time online learning capabilities, guaranteeing closed-loop stability and safety (i.e., constraint satisfaction). More specifically, my research interests include:
+My aim is to contribute to the development of a sustainable society by advancing assured autonomous systems and optimizing their use. I picture a world where these kinds of systems completely transform things like transportation, healthcare, manufacturing, farming, and even disaster response—making everything more efficient, precise, and adaptable. 
+
+To achieve this long-term objective, I believe we need predictive, data-driven, and learning-based methods for planning, decision-making, and control—methods that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety. Lately, I’ve been especially focused on developing computationally efficient, learning-based controllers that can handle uncertain or unknown systems, learn on the fly, and still keep everything stable and within safe limits. More specifically, my research interests include:
 
 <!-- **Research Interests:**-->
-* Automatic Control
+* Control Theory
 * Model Predictive Control
 * Safe Learning-Based Control
-* Safety-Critical Systems
 * Data-Driven Modeling and Control
+* Safety-Critical Systems
 * Assured Autonomous Systems and Robotics
 
-In my spare time, I engage in sports like bodybuilding and running, as well as enjoying outdoor activities such as hiking, camping, and climbing with friends and family. Kickboxing used to be a part of my routine as well.
+In my free time, I like to stay active with sports like bodybuilding and running, and I really enjoy outdoor adventures like hiking, camping, and climbing with friends and family. I used to do kickboxing too—it was a fun challenge!
 
-Thank you for visiting my website. Whether you’re a fellow researcher, a prospective student, or simply curious about may work, I hope you find the information here helpful and motivating. Please feel free to [reach out](mailto:m.shahrajabian99@gmail.com) if you have any questions or would like to discuss potential collaborations.
+Thanks for stopping by my website! Whether you're a fellow researcher, a student exploring the field, or just curious about what I do, I hope you find something here that sparks your interest. Feel free to [reach out](mailto:m.shahrajabian99@gmail.com) if you have any questions or want to chat about possible collaborations!
 
