@@ -26,7 +26,8 @@ To achieve this long-term objective, I believe we need predictive and learning-b
 
 <!-- **Research Interests:**-->
 * Control Theory
-* Model Predictive Control,
+* Model Predictive Control
+* Data-Driven Modeling, Fault Diagnosis, and Control
 * Safe Learning-Based Decision-Making and Control
 * Trustworthy AI and Assured Autonomy in Cyber-Physical Systems
 
