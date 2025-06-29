@@ -25,12 +25,10 @@ My aim is to contribute to the development of a sustainable society by advancing
 To achieve this long-term objective, I believe we need predictive and learning-based methods for planning, decision-making, and control—methods that can be trusted to deliver reliable performance in complex real-world applications while ensuring safety. Lately, I’ve been especially focused on developing computationally efficient, learning-based controllers that can handle uncertain or unknown systems, learn on the fly, and still keep the system stable and within safe limits. More specifically, my research interests include:
 
 <!-- **Research Interests:**-->
-* Model Predictive Control
-* Safe Learning-Based Control
-* Intelligent Decision-Making and Control
-* Data-Driven Modeling and Control
-* Safety-Critical Systems
-* Assured Autonomous Systems and Robotics
+* Control Theory
+* Model Predictive Control,
+* Safe Learning-Based Decision-Making and Control
+* Trustworthy AI and Assured Autonomy in Cyber-Physical Systems
 
 In my free time, I like to stay active with sports like bodybuilding and running, and I really enjoy outdoor adventures like hiking, camping, and climbing with friends and family. I used to do kickboxing too.
 
