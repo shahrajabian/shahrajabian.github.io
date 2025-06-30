@@ -36,4 +36,7 @@ The result is shown below:
 <div class="caption">
     Quadrotor path in 2D up view and 3d view.
 </div>
-
+The following GIF shows the simulation process that by transfering data between Simulink and QGroundControl the waypoint following can be observed and monitor in QGroundControl. Also the flight mode at each time is shown in the Simulink model. 
+![Animation](bachelorThesis.gif)
+The Lab test for disturbance rejection in the 3DOF setup can be observed in the following GIF:
+![Animation](BSC_Dist_TEST.gif)
