@@ -18,7 +18,7 @@ With increasing urban density, large cities face challenges such as air pollutio
 * Developed a dynamic control allocation module to handle simultaneous actuator faults while considering the actuator constraint and fault estimation error
 * Compensating for the uncertainty caused by the variability of the thrust and drag torque coefficients in the system model and considering them as constant in the control allocation matrix by the proposed CANCDO approach
 
-The result is shown below:
+The simulation result in the presence of up to 20 percent parameter uncertainties, unmodeled dynamics, wind and gusts, and 6 actuator faults is shown below:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
