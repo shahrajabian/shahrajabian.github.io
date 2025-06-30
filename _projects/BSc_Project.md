@@ -38,8 +38,8 @@ The result is shown below:
 </div>
 The following GIF shows the simulation process that by transfering data between Simulink and QGroundControl the waypoint following can be observed and monitor in QGroundControl. Also the flight mode at each time is shown in the Simulink model.
         
-![Animation](assets/video/bachelorThesis.gif)
+![Simulation](assets/video/bachelorThesis.gif)
 
 The Lab test for disturbance rejection in the 3DOF setup can be observed in the following GIF:
 
-![Animation](assets/video/BSC_Dist_TEST.gif)
+![Disturbance](assets/video/BSC_Dist_TEST.gif)
