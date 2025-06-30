@@ -46,7 +46,7 @@ The following GIF shows the simulation process that by transfering data between 
 
 The Lab test for disturbance rejection in the 3DOF setup can be observed in the following GIF:
 <div class="row">
-    <div class="d-flex justify-content-center">
+    <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/video/BSC_Dist_TEST.gif" title="Disturbance" class="img-fluid rounded z-depth-1" width="300" %}
 <div class="caption">
     Disturbance rejection test 
