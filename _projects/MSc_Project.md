@@ -13,11 +13,17 @@ With increasing urban density, large cities face challenges such as air pollutio
 
 **Contributions**:
 * Developed a simulation model for a novel multirotor air taxi, including gyroscopic effects, rotor forces and moment, actuator dynamics, ground effect, and wind disturbances.
-* Proposed a Composite-Learning-Based Adaptive Neural Control with Disturbance Observer (CANCDO) approach for the second-order systems to improve the quality of online uncertainty estimation
+* Proposed a Composite-Learning-Based Adaptive Neural Control with Disturbance Observer (CANCDO) approach for the second-order systems (multirotors) to improve the quality of online uncertainty estimation
 * Safe trajectory tracking control of the novel multirotor air taxi in the presence of uncertainties, disturbances and faults by adding control barrier functions to the proposed approach (CANCDO)
 * Developed a dynamic control allocation module to handle simultaneous actuator faults while considering the actuator constraint and fault estimation error
 * Compensating for the uncertainty caused by the variability of the thrust and drag torque coefficients in the system model and considering them as constant in the control allocation matrix by the proposed CANCDO approach
-
+The overal architecture of the proposed control system is shown below:
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/MSc_control_system_arc.png" title="Control System Architecture" class="img-fluid rounded z-depth-1" %}
+<div class="caption">
+    The proposed safe intelligent control system architecture for multirotors. 
+</div>
 The simulation result in the presence of up to 20 percent parameter uncertainties, unmodeled dynamics, wind and gusts, and 6 actuator faults is shown below:
 
 <div class="row">
