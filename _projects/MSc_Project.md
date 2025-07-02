@@ -5,7 +5,7 @@ description: Safe Intelligent Control of Air Taxis
 img: assets/img/MSc_P_front.png
 importance: 1
 category: Academic
-related_publications: true
+related_publications: false
 ---
 **Fault-Tolerant Adaptive Intelligent Control of an Autonomous Multi-rotor eVTOL Air Taxi**
 
