@@ -3,9 +3,9 @@ layout: page
 title: BSc Project
 description: Quadrotor Autopilot 
 img: assets/img/BSc_P_front.png
-importance: 1
+importance: 2
 category: Academic
-related_publications: true
+related_publications: false
 ---
 **Design and Implementation of Autopilot for Automatic Takeoff and Landing of a Quadrotor using the MBD Approach**
 
