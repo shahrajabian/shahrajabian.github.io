@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gymnastic Robot Control
-description: Fuzzy control of 3-link gymnastic robot
+description: Fuzzy control of a gymnastic robot
 img: assets/img/Gymnastic_front.png
 importance: 3
 category: Academic
