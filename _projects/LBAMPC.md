@@ -29,7 +29,6 @@ The controller's performance, evaluated by Mean Absolute Error (MAE) in trajecto
         {% include figure.liquid loading="eager" path="assets/img/ANMPC_MAE.png" title="MAE" class="img-fluid rounded z-depth-1"  width="300" %}
 </div>
 
-The simulation results is shown below:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
