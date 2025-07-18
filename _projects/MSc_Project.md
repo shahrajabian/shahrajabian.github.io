@@ -16,7 +16,6 @@ With increasing urban density, large cities face challenges such as air pollutio
 * Proposed a Composite-Learning-Based Adaptive Neural Control with Disturbance Observer (CANCDO) approach considering input constraints for the second-order systems (multirotors) to improve the quality of online uncertainty estimation and capable of robust trajectory tracking under system uncertainties, external disturbances.
 * Developed a dynamic control allocation algorithm based on a novel two-stage FDD framework, combining AEKF and OS-ELM approaches to handle simultaneous actuator faults.
 * Developed adaptive CBFs as safety filter for enforcing safety constraints on critical states and guaranteeing operation within safe flight envelopes.
-
 * Compensating for the uncertainty caused by the variability of the thrust and drag torque coefficients in the system model and considering them as constant in the control allocation matrix by the proposed CANCDO approach
 The overal architecture of the proposed control system is shown below:
 <div class="row">
