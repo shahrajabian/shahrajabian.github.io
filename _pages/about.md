@@ -29,7 +29,7 @@ To achieve this long-term objective, I believe we need learning-based methods fo
 * Data-Driven Modeling, Fault Diagnosis, and Control
 * Safe Learning-Based Decision-Making and Control
 * Trustworthy AI and Assured Autonomy in Cyber-Physical Systems
-* Computer Science and Robotics
+* Multi-agent Systems
 
 In my free time, I like to stay active with sports like bodybuilding and running, and I really enjoy outdoor adventures like hiking, camping, and climbing with friends and family. I used to do kickboxing too.
 
