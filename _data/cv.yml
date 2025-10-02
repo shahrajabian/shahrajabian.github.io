@@ -24,7 +24,7 @@
   type: time_table
   contents:
     - title: Graduate Research Assistant
-      institution: Aerial Robotics Lab, Department of Aerospace Engineering, Sharif University of Technology
+      institution: Department of Aerospace Engineering, Sharif University of Technology
       description:
         - Supervisor&#58; <a href="http://ae.sharif.edu/~portal/faculty/1066724069">Prof. Fariborz Saghafi</a>
         - Master Thesis&#58; Fault-tolerant Adaptive Intelligent Control of an Autonomous Multi-rotor eVTOL Air Taxi
@@ -35,17 +35,17 @@
       year: 2021-2022
       description:
         - Supervisor&#58; <a href="https://aut.ac.ir/cv/2141/SEYED MAJID ESMAILIFAR">Prof. Seyed Majid Esmailifar</a>
-        - Bachelor Thesis&#58; Design and Implementation of Autopilot for Automatic Takeoff and Landing of a Quadrotor using the Model-Based Design Approach
+        - Bachelor Thesis&#58; Design and Implementation of Control System for Automatic Takeoff and Landing of a Quadrotor using the Model-Based Design Approach
 
-    - title: Embedded Software Engineer (Part-time)
-      institution: Avionics Office, Arc Aerosystems Ltd., Tehran, Iran
-      year: 2021-2022
-      description: Contributed as a junior Embedded Control Software Engineer in an air taxi development co.
+    #- title: Embedded Software Engineer (Part-time)
+      #institution: Avionics Office, Arc Aerosystems Ltd., Tehran, Iran
+     # year: 2021-2022
+     # description: Contributed as a junior Embedded Control Software Engineer in an air taxi development co.
 
-    - title: Engineering Intern
-      institution: Avionics Office, Arc Aerosystems Ltd., Tehran, Iran
-      year: 2021
-      description: Compared and evaluated various control methods employed in the control system of a lift + cruise eVTOL aircraft.
+    #- title: Engineering Intern
+      #institution: Avionics Office, Arc Aerosystems Ltd., Tehran, Iran
+      #year: 2021
+      #description: Compared and evaluated various control methods employed in the control system of a lift + cruise eVTOL aircraft.
       
 - title: Honors and Awards
   type: time_table
