@@ -19,7 +19,13 @@
       institution: Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran
       year: 2017-2022
 
-    
+- title: Experience
+  type: time_table
+  contents:
+    - title: Graduate Research Assistant
+      institution: Department of Aerospace Engineering, Sharif University of Technology
+      description:
+      year: 2024-2025   
       
 - title: Honors and Awards
   type: time_table
