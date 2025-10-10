@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: 
-nav: true
+nav: false
 nav_order: 3
 ---
 Teaching is a high priority for me. I believe it's our responsibility to share our experiences and knowledge to inspire future students. By doing so, we can guide them, foster their passions, and empower them to reach their full potential.
