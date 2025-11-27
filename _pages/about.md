@@ -7,10 +7,10 @@ subtitle: Master Student at Sharif University of Technology, Tehran, Iran
 
 profile:
   align: right
-  image: img1.jpg
+  image: prof_pic2.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>📸 Taken in Tehran, Feb 2025</p>
+    <p>📸 Taken in Gilan, Nov 2025</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
