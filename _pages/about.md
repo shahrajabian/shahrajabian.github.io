@@ -24,8 +24,9 @@ My goal is to contribute to a safer and more sustainable society by designing sy
 
 <!-- **Research Interests:**-->
 * Control Theory
+* Machine Learning
 * Data-Driven Modeling and Control
-* Safe Control
+* Safety-Critical Systems
 
 In my free time, I like to stay active with sports like bodybuilding and running, and I really enjoy outdoor adventures like hiking, camping, and climbing with friends and family. I used to do kickboxing too.
 
