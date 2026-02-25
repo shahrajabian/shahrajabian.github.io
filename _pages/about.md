@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master Student at Sharif University of Technology, Tehran, Iran
+subtitle: MSc in Dynamics and Control 
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -27,6 +27,8 @@ My goal is to contribute to a safer and more sustainable society by designing sy
 * Machine Learning
 * Data-Driven Modeling and Control
 * Safety-Critical Systems
+* Safe Learning-Based Control
+* Robotics
 
 In my free time, I like to stay active with sports like bodybuilding and running, and I really enjoy outdoor adventures like hiking, camping, and climbing with friends and family. I used to do kickboxing too.
 
