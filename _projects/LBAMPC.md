@@ -8,7 +8,7 @@ category: Academic
 related_publications: false
 ---
 
-**Robust fault-tolerant trajectory tracking of a quadrotor based on learning-based adaptive model predictive control**
+**Learning-based adaptive model predictive control for precise quadrotor trajectory tracking under uncertainties and faults**
 
 In this research, a learning-based adaptive model predictive control (MPC) structure is proposed for fault-tolerant trajectory tracking control of quadrotors in the presence of uncertainties and disturbances. The predictive control method used is acceleration-based, and the predictive model is linearized at each time step around the future trajectory to minimize computational cost in the optimal control problem.
 
