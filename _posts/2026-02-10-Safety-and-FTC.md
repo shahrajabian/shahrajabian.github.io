@@ -48,7 +48,7 @@ Furthermore, some FDD approaches also determine the **fault type** and identify 
 
 <div class="row">
     <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/FDD.png" title="Fault Detection and Diagnosis Block" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/FDD.png" title="Fault Detection and Diagnosis Block" class="img-fluid rounded z-depth-1" width="400" %}
         <div class="caption text-center">Fault Detection and Diagnosis Block</div>  
     </div>
 </div>
