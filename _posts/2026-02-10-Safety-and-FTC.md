@@ -38,3 +38,17 @@ In contrast, **data-driven** FDD approaches are capable of identifying faults wi
         <div class="caption text-center">Fault-tolerant Control</div>  
     </div>
 </div>
+
+
+Fault Detection and Diagnosis (FDD) encompasses several stages, including **fault detection**, **fault isolation**, **fault identification**, and **fault severity estimation**. Fault detection refers to the process of determining whether a fault has occurred within the system. This is typically accomplished by **monitoring** real-time measurement data and identifying deviations from the system's normal and expected operating behavior.
+
+Once a fault has been detected, **fault isolation** is performed to determine the location of the fault, namely the specific component, subsystem, or actuator in which the fault has occurred. It should be noted that *fault isolation* does not imply physically isolating or disconnecting a faulty component to prevent fault propagation. Rather, it refers to identifying the source or location of the fault. For this reason, the term **fault identification** is sometimes considered more appropriate. Nevertheless, in the FDD literature, the terms *fault isolation* and *fault identification* are often used interchangeably.
+
+Furthermore, some FDD approaches also determine the **fault type** and identify its **root cause**, which can be regarded as an extension of the fault isolation (or identification) process. Collectively, the processes of fault detection and fault isolation constitute the **Fault Detection and Isolation (FDI)** module. The combination of the FDI module and **fault severity estimation** forms the complete **Fault Detection and Diagnosis (FDD)** framework, whose main components are illustrated in the following figure.
+
+<div class="row">
+    <div class="col-sm d-flex justify-content-center mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/FDD.png" title="Fault Detection and Diagnosis Block" class="img-fluid rounded z-depth-1" %}
+        <div class="caption text-center">Fault Detection and Diagnosis Block</div>  
+    </div>
+</div>
