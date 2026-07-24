@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 latest_posts: false
 social: true # includes social icons at the bottom of the page
 ---
-Hi! I'm Mahdi, a control researcher passionate about control theory and its applications. Recently, I graduated with a master’s degree in Dynamics and Control at Sharif University of Technology, where I focused on developing safe control systems. I also hold dual B.Sc. degrees in Electrical and Aerospace Engineering from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/), where I specialized in dynamic systems and control. 
+Hi! I'm Mahdi, a control researcher passionate about control theory and its applications. Recently, I graduated with a master’s degree in Dynamics and Control from [Sharif University of Technology](https://en.sharif.ir/), where I focused on developing safe control systems. I also hold dual B.Sc. degrees in Electrical and Aerospace Engineering from [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/), where I specialized in dynamic systems and control. 
 
 My goal is to contribute to a safer and more sustainable society by designing systems that people can trust and rely on. To achieve this, I focus on data-driven methods for planning, decision-making, fault detection, and control—methods that ensure reliable performance while prioritizing safety. Recently, I have concentrated on developing computationally efficient, data-driven algorithms capable of handling uncertain or unknown systems, while maintaining stability and keeping the system within safe operational limits, ultimately helping protect people and resources.
  More specifically, my research interests include:
