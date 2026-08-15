@@ -33,6 +33,7 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Department of Aerospace Engineering</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor: <a href="http://ae.sharif.edu/~portal/faculty/1869080903">Prof. Seyyed Ali Emami</a></li> 
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Graduate</li>   
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Projects: <a href="https://shahrajabian.github.io/assets/pdf/Adaptive_Control_MiniProj1.pdf">Proj1</a>, <a href="https://shahrajabian.github.io/assets/pdf/Adaptive_Control_MiniProj2.pdf">Proj2</a>, <a href="https://shahrajabian.github.io/assets/pdf/Adaptive_Control_MiniProj3.pdf">Proj3</a>, <a href="https://shahrajabian.github.io/assets/pdf/Adaptive_Control_MiniProj4.pdf">Proj4</a></li>  
     </ul> 
   </div>
 </div>
@@ -53,7 +54,8 @@ Throughout my academic journey, I’ve had the privilege of being a teaching ass
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Fall 2025</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Department of Aerospace Engineering</li>  
       <li class="list-group-item" style="border-bottom: none; line-height: 0.2;">— Instructor: <a href="http://ae.sharif.edu/~portal/faculty/1869080903">Prof. Seyyed Ali Emami</a></li> 
-      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Graduate</li>   
+      <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Level: Graduate</li>  
+        <li class="list-group-item" style="border-bottom: none; line-height: 0.2;;">— Projects: <a href="https://shahrajabian.github.io/assets/pdf/MPC_MiniProj1.pdf">Proj1</a>, <a href="https://shahrajabian.github.io/assets/pdf/MPC_MiniProj2.pdf">Proj2</a>, <a href="https://shahrajabian.github.io/assets/pdf/MPC_MiniProj3.pdf">Proj3</a>, <a href="https://shahrajabian.github.io/assets/pdf/MPC_MiniProj4.pdf">Proj4</a></li>  
     </ul> 
   </div>
 </div>
